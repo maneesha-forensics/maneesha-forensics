@@ -68,8 +68,9 @@
    | Learning Platforms	 |      TryHackMe        |
    
   ## Connect With Me
-    •	LinkedIn: linkedin.com/in/maneesha-balasubramaniyan-6b5840250
-    •	GitHub: Your GitHub URL
-    
+    	LinkedIn: linkedin.com/in/maneesha-balasubramaniyan-6b5840250
+      GitHub: https://github.com/maneesha-forensics
+      Email: maneeshab22082@gmail.com
+      
  ## Quote
     "Every digital trace tells a story."
