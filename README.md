@@ -1,6 +1,6 @@
 # Hi, I'm Maneesha 👋
 
-  ## Aspiring Digital Forensics & DFIR Professional
+  ## Digital Forensics & DFIR Aspirant | Cyber Investigation Learner
   
   Focused on:
     •	Digital Investigation
@@ -23,7 +23,15 @@
     •	FTK Imager
     •	Volatility
     •	OSINT
+    •	Windows Event Logs Analysis
     •	Incident Response Basics
+
+  ## Tools & Skills (Learning)
+    • Autopsy (Digital Forensics)
+    • FTK Imager (Evidence Collection)
+    • Wireshark (Network Analysis)
+    • OSINT Basics
+    • Windows Event Logs Analysis  
     
   ## Technical Skills
     •	Digital Investigation
@@ -44,6 +52,11 @@
     •	Digital Forensics Analyst
     •	DFIR Analyst
     •	Cyber Investigation Professional
+
+  ## Current Focus
+    • Learning Digital Evidence Analysis
+    • Practicing Incident Response basics
+    • Building DFIR fundamentals
     
   ## Current Projects
     •	Linux Notes
